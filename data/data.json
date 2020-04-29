@@ -1,0 +1,20 @@
+{
+	"profiles":[
+		{
+			"profileInfo":{
+				"name":"radha",
+				"email":"radha.n@gmail.com",
+				"mobile":"7842301380",
+				"address":"guntur,Andhrapradesh"
+			}
+		},
+		{
+			"profileInfo":{
+				"name":"santhi",
+				"email":"santhi.k@gmail.com",
+				"mobile":"9876543210",
+				"address":"guntur,Andhrapradesh"
+			}
+		}
+	]
+}
